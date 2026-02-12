@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Ascend: Peak Performance Tracker",
+  "description": "A gamified self-improvement platform for mastering your gym life, aesthetic journey, and professional growth. Level up your life with streaks, quests, and AI-driven motivation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
